@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#149dcc",
         "secondaryColor": "#ff3366",
-        "successColor": "#6df225",
+        "successColor": "#63e21d",
         "infoColor": "#f2a70a",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
@@ -29,7 +29,8 @@
       },
       "additionalSetColors": [
         "#6df225",
-        "#f2a70a"
+        "#f2a70a",
+        "#63e21d"
       ]
     },
     "path": "@PROJECT_PATH@",
